@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LSIDBModelStoreContainer" CdmEntityContainer="LSIDBEntities">
+    <EntitySetMapping Name="ExportLog">
+      <EntityTypeMapping TypeName="LSIDBModel.ExportLog">
+        <MappingFragment StoreEntitySet="ExportLog">
+          <ScalarProperty Name="ExportId" ColumnName="ExportId" />
+          <ScalarProperty Name="ExportName" ColumnName="ExportName" />
+          <ScalarProperty Name="ExportDateTime" ColumnName="ExportDateTime" />
+          <ScalarProperty Name="ExportUserName" ColumnName="ExportUserName" />
+          <ScalarProperty Name="ExportLocalName" ColumnName="ExportLocalName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,167 @@
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\LSI test.dll.config
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\LSI test.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\LSI test.pdb
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\csc.exe
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\csc.exe.config
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\csc.rsp
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\csi.exe
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\csi.exe.config
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\csi.rsp
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.AppContext.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Console.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.IO.Compression.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.IO.Pipes.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Security.Claims.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.ValueTuple.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\vbc.exe
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\vbc.exe.config
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\vbc.rsp
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\VBCSCompiler.exe
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\Antlr3.Runtime.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\EntityFramework.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\EntityFramework.SqlServer.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\Newtonsoft.Json.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.Helpers.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.Mvc.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.Optimization.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.Razor.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.WebPages.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.WebPages.Razor.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\WebGrease.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\EntityFramework.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\EntityFramework.SqlServer.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.Helpers.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.Mvc.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.Optimization.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.Razor.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.WebPages.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Web.WebPages.Razor.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\Newtonsoft.Json.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\Antlr3.Runtime.pdb
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\obj\Debug\LSI test.csprojAssemblyReference.cache
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\obj\Debug\LSI test.csproj.CoreCompileInputs.cache
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\obj\Debug\LSI test.csproj.CopyComplete
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\obj\Debug\LSI test.dll
+C:\Users\adrian.wolski\Desktop\LSI test v2\LSI test\LSI test\obj\Debug\LSI test.pdb
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\LSI test.dll.config
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\LSI test.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\LSI test.pdb
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\csc.exe
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\csc.exe.config
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\csc.rsp
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\csi.exe
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\csi.exe.config
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\csi.rsp
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.AppContext.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Console.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.IO.Compression.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Security.Claims.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.ValueTuple.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\vbc.exe
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\vbc.exe.config
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\vbc.rsp
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\VBCSCompiler.exe
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\Antlr3.Runtime.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\EntityFramework.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\EntityFramework.SqlServer.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\Newtonsoft.Json.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.Helpers.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.Mvc.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.Optimization.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.Razor.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.WebPages.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.WebPages.Razor.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\WebGrease.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\EntityFramework.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\EntityFramework.SqlServer.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.Helpers.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.Mvc.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.Optimization.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.Razor.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.WebPages.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Web.WebPages.Razor.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\Newtonsoft.Json.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\Antlr3.Runtime.pdb
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\obj\Debug\LSI test.csprojResolveAssemblyReference.cache
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\obj\Debug\LSI test.csproj.CoreCompileInputs.cache
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\obj\Debug\LSI test.dll
+C:\Users\sylwia\Desktop\Adrian\lsi_test\v3\LSI test\LSI test\obj\Debug\LSI test.pdb

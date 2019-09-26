@@ -1,0 +1,61 @@
+﻿@model LSI_test.Models.ExportLogViewModel
+
+<div class="container">
+    @using (Ajax.BeginForm("GetExportLogs", "Home", new AjaxOptions
+    {
+        InsertionMode = InsertionMode.Replace,
+        UpdateTargetId = "logsTable"
+    }))
+    {
+        <div class="col-sm-4">
+            <div class="m-md">
+                @Html.LabelFor(x => x.LocalsFilter)
+                @Html.DropDownListFor(x => x.LocalsFilter, Model.LocalsPossibleFilter, "Wszystkie", new { @class = "form-control" })
+            </div>
+            <div class="m-md">
+                @Html.LabelFor(x => x.DateFromFilter)
+                @Html.TextBoxFor(x => x.DateFromFilter, new { @class = "form-control datepicker", id = "startDate" })
+            </div>
+            <div class="m-md">
+                @Html.LabelFor(x => x.DateToFilter)
+                @Html.TextBoxFor(x => x.DateToFilter, new { @class = "form-control datepicker", id = "endDate" })
+            </div>
+            <div class="m-md">
+                <button class="btn-lg btn-info" type="submit">Zatwierdź</button>
+            </div>
+        </div>
+    }
+    <div class="col-sm-8" id="logsTable">
+        @Html.Partial("_logsTable", Model.ExportLogItems)
+    </div>
+</div>
+
+<script type="text/javascript">
+        $('.datepicker').datepicker({
+            format: 'yyyy-mm-dd',
+            autoclose: true,
+            startDate: '@(Model.StartPossibleDate.HasValue ? Model.StartPossibleDate.Value.ToString("yyyy-MM-dd") : null)',
+            endDate: '@( Model.EndPossibleDate.HasValue ? Model.EndPossibleDate.Value.ToString("yyyy-MM-dd") : null)',
+            language: 'pl',
+            clearBtn: true
+    });
+    $("#startDate").datepicker()
+        .on('changeDate', function (selected) {
+            var minDate = new Date(selected.date.valueOf());
+            $('#endDate').datepicker('setStartDate', minDate);
+        });
+        $("#startDate").datepicker()
+        .on('clearDate', function () {
+            $('#endDate').datepicker('setStartDate', '@(Model.StartPossibleDate.HasValue ? Model.StartPossibleDate.Value.ToString("yyyy-MM-dd") : null)');
+    });
+
+    $("#endDate").datepicker()
+        .on('changeDate', function (selected) {
+                var maxDate = new Date(selected.date.valueOf());
+            $('#startDate').datepicker('setEndDate', maxDate);
+        });
+        $("#endDate").datepicker()
+        .on('clearDate', function () {
+            $('#startDate').datepicker('setEndDate', '@( Model.EndPossibleDate.HasValue ? Model.EndPossibleDate.Value.ToString("yyyy-MM-dd") : null)');
+        });
+</script>

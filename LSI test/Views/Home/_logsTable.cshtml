@@ -1,0 +1,35 @@
+﻿@model IEnumerable<LSI_test.Models.ExportLogItemViewModel>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Nazwa</th>
+            <th scope="col">Data</th>
+            <th scope="col">Godzina</th>
+            <th scope="col">Użytkownik</th>
+            <th scope="col">Lokal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.ExportName
+                </td>
+                <td>
+                    @item.ExportDateTime.ToString("yyyy-MM-dd")
+                </td>
+                <td>
+                    @item.ExportDateTime.ToString("HH:MM")
+                </td>
+                <td>
+                    @item.Username
+                </td>
+                <td>
+                    @item.Local
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
